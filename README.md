@@ -1,4 +1,4 @@
-## 💻 Web Scrapping AI Agent
+##  Web Scrapping AI Agent
 This Streamlit app allows you to scrape a website using OpenAI API and the scrapegraphai library. Simply provide your OpenAI API key, enter the URL of the website you want to scrape, and specify what you want the AI agent to extract from the website.
 
 ### Features
@@ -10,10 +10,6 @@ This Streamlit app allows you to scrape a website using OpenAI API and the scrap
 
 1. Clone the GitHub repository
 
-```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/advanced_tools_frameworks/web_scrapping_ai_agent
-```
 2. Install the required dependencies:
 
 ```bash
